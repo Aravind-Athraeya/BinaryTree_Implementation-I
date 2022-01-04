@@ -49,7 +49,7 @@ if (ptr == NULL)
 
 }
 
-
+// Easy
 int main()
 {
 	node *root = NULL;
