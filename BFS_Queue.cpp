@@ -5,7 +5,7 @@
 #include <queue>
 using namespace std;
 
-
+// Its Queue
 typedef struct TreeNode
 {
 	int value;
