@@ -21,7 +21,7 @@ node* getNewNode(int value) {
 	new_node->right = NULL;
 	return new_node;
 }
-// create the tree
+/// create the tree
 node *createTree() {
 	node *root = getNewNode(10);
 	root->left = getNewNode(5);
