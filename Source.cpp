@@ -13,7 +13,7 @@ typedef struct TreeNode
 
 
 
-// create a new node
+/// create a new node
 node *getNewNode(int value) {
 	node *new_node = new node;
 	new_node->value = value;
